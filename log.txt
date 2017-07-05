@@ -1,0 +1,29 @@
+commit d97afb90cbd6b0f2b99ae7fffa475b7736bebfab
+Author: luizfer9 <luizfer.sap@gmail.com>
+Date:   Tue Jul 4 09:53:44 2017 -0600
+
+    integracion bootstrap
+
+commit 0efb880779592430eb06ec1c9821d2364317f377
+Author: luizfer9 <luizfer.sap@gmail.com>
+Date:   Tue Jul 4 09:49:04 2017 -0600
+
+    Se agrego footer a la pagina
+
+commit 6440126132d9d868991baa65c5ac9df9ac578c67
+Author: luizfer9 <luizfer.sap@gmail.com>
+Date:   Tue Jul 4 09:46:37 2017 -0600
+
+    Se agrego imagen y descripcion
+
+commit 8a03bf474963355ff94446b14167ac3b6ae5f889
+Author: luizfer9 <luizfer.sap@gmail.com>
+Date:   Tue Jul 4 09:40:58 2017 -0600
+
+    Se agrego titulo de la pagina
+
+commit d3ef5822bad18f2ee35eac4a2f4e9eef6a62d585
+Author: luizfer9 <luizfer.sap@gmail.com>
+Date:   Tue Jul 4 09:39:30 2017 -0600
+
+    Estructura Inicial
